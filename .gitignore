@@ -1,0 +1,27 @@
+# Environment files
+.env
+*.env
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.vscode/
+.idea/
+
+# Package build outputs (if you use PyInstaller)
+build/
+dist/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
