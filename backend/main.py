@@ -1,5 +1,6 @@
 from fastapi import FastAPI
-from phone_lookup import lookup_number
+from backend.phone_lookup import lookup_number
+
 
 app = FastAPI()
 
